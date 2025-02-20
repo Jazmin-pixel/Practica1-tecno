@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\bin\Debug\Ejercicio 2.1_19858939.exe.config
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\bin\Debug\Ejercicio 2.1_19858939.exe
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\bin\Debug\Ejercicio 2.1_19858939.pdb
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\obj\Debug\Ejercicio 2.1_19858939.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\obj\Debug\Ejercicio 2.1_19858939.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\obj\Debug\Ejercicio 2.1_19858939.exe
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\guia 1\Ejercicio 2.1_19858939\obj\Debug\Ejercicio 2.1_19858939.pdb
