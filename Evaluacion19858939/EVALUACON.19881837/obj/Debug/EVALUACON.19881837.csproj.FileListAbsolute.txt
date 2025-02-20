@@ -1,0 +1,20 @@
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON._19881837.Form1.resources
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON._19881837.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\bin\Debug\EVALUACON.19881837.exe.config
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\bin\Debug\EVALUACON.19881837.exe
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\bin\Debug\EVALUACON.19881837.pdb
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.exe
+C:\Users\MINEDUCYT\Desktop\prectica 6 tati\EVALUACON.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.pdb
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\bin\Debug\EVALUACON.19881837.exe.config
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\bin\Debug\EVALUACON.19881837.exe
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\bin\Debug\EVALUACON.19881837.pdb
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON._19881837.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON._19881837.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.exe
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\Practica 01\Practica 01 Lissett\EVALUACION.19881837\EVALUACON.19881837\obj\Debug\EVALUACON.19881837.pdb

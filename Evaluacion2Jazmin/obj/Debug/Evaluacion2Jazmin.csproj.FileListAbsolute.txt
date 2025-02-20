@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\bin\Debug\Evaluacion2Jazmin.exe.config
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\bin\Debug\Evaluacion2Jazmin.exe
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\bin\Debug\Evaluacion2Jazmin.pdb
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.exe
+C:\Users\MINEDUCYT\Desktop\Actividad 6\Evaluacion2Jazmin\obj\Debug\Evaluacion2Jazmin.pdb

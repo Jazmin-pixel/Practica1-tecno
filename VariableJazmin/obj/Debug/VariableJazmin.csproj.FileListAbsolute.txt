@@ -1,0 +1,20 @@
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\bin\Debug\VariableJazmin.exe.config
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\bin\Debug\VariableJazmin.exe
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\bin\Debug\VariableJazmin.pdb
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.exe
+C:\Users\MINEDUCYT\Desktop\Actividad 6\VariableJazmin\obj\Debug\VariableJazmin.pdb
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\bin\Debug\VariableJazmin.exe.config
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\bin\Debug\VariableJazmin.exe
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\bin\Debug\VariableJazmin.pdb
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.exe
+C:\Users\MINEDUCYT\Desktop\Prof.Arcides\PRACTICA 1 2025\ACTIVIDAD6\VariableJazmin\obj\Debug\VariableJazmin.pdb
